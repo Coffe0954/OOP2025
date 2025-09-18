@@ -1,0 +1,5 @@
+/mnt/c/OOP2025/Homework/lab1/build/CMakeFiles/plant_growth.dir
+/mnt/c/OOP2025/Homework/lab1/build/CMakeFiles/plant_growth_tests.dir
+/mnt/c/OOP2025/Homework/lab1/build/CMakeFiles/test.dir
+/mnt/c/OOP2025/Homework/lab1/build/CMakeFiles/edit_cache.dir
+/mnt/c/OOP2025/Homework/lab1/build/CMakeFiles/rebuild_cache.dir
