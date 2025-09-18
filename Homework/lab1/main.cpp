@@ -17,7 +17,7 @@ int main() {
     std::cin >> desiredHeight;
     
     if (upSpeed <= 0 || downSpeed < 0 || desiredHeight <= 0) {
-        std::cout << "Error: value must be greater than zero" << std::endl;
+        std::cout << "Error: value must be correct" << std::endl;
         return 1;
     }
     
